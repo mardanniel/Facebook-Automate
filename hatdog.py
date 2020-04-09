@@ -1,0 +1,2 @@
+myUsers = []
+myPasswords = []
